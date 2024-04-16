@@ -71,6 +71,7 @@
     "rehype-raw": "^7.0.0",
     "remark-gfm": "^4.0.0",
     "simplebar-react": "^3.2.4",
+    "start": "^5.1.0",
     "stylis-plugin-rtl": "^1.1.0",
     "swr": "^2.2.5",
     "yet-another-react-lightbox": "^3.17.0",
